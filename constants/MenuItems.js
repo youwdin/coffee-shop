@@ -1,12 +1,12 @@
 export const MENU_ITEMS = [
     {
         "id": 1,
-        "title": "Haris!",
+        "title": "Espresso",
         "description": "Strong, concentrated coffee.",
     },
     {
         "id": 2,
-        "title": "nasi lemak`",
+        "title": "Americano",
         "description": "Espresso diluted with hot water.",
     },
     {
